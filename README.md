@@ -8,12 +8,12 @@ Op deze pagina staan alle files die wij gebruiken bij het maken van de game.
 
 [Trello pagina:](https://trello.com/b/0FGOfvnF/arcade-mechanics)
 
-### Wij maken een arcade game maken. Deze game maken we doormiddel van het programmeer taal c# en de
-game engine Unity.
+<p> Wij maken een arcade game maken. Deze game maken we doormiddel van het programmeer taal c# en de
+<p> game engine Unity.
 ========================================================================
 ## Opdracht 0
 
--
+<p> -
 
 
 

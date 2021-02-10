@@ -6,9 +6,9 @@ dit is onze github pagina van onze beroepsopdracht van de module Arcade Mechanic
 Op deze pagina staan alle files die wij gebruiken bij het maken van de game.
 
 
-[Trello pagina:](#https://trello.com/b/0FGOfvnF/arcade-mechanics)
+[Trello pagina:](https://trello.com/b/0FGOfvnF/arcade-mechanics)
 
-Wij maken een arcade game maken. Deze game maken we doormiddel van het programmeer taal c# en de
+### Wij maken een arcade game maken. Deze game maken we doormiddel van het programmeer taal c# en de
 game engine Unity.
 ========================================================================
 ## Opdracht 0

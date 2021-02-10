@@ -1,3 +1,19 @@
-## Beroeps opdracht Arcade mechanics
+# Beroeps opdracht Arcade mechanics
 
-#Dit is de repo van Jasper, Jayden en Milan voor het Beroeps opdracht
+Het team bestaat uit: Jasper Glotzbach, Jayden Hoeve en Milan de Ridder 
+
+dit is onze github pagina van onze beroepsopdracht van de module Arcade Mechanics.
+Op deze pagina staan alle files die wij gebruiken bij het maken van de game.
+
+
+[Trello pagina:](#https://trello.com/b/0FGOfvnF/arcade-mechanics)
+
+Wij maken een arcade game maken. Deze game maken we doormiddel van het programmeer taal c# en de
+game engine Unity.
+========================================================================
+## Opdracht 0
+
+-
+
+
+

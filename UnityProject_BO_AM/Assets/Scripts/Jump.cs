@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Jump : MonoBehaviour
 {
-    private Rigidbody rb;
+    private Rigidbody2D rb;
     
     void Start()
     {
-        rb = gameObject.GetComponent<Rigidbody>(); 
+        rb = gameObject.GetComponent<Rigidbody2D>(); 
     }
     
 

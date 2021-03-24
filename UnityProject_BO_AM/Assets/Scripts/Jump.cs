@@ -5,7 +5,7 @@ using UnityEngine;
 public class Jump : MonoBehaviour
 {
     private Rigidbody2D rb;
-    
+    public float jumpPower = 6;
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody2D>(); 
@@ -16,7 +16,7 @@ public class Jump : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.W))
         {
-            rb.velocity = new Vector3(0, 5, 0);
+            rb.velocity = new Vector3(0, jumpPower, 0);
         }
     }
 }

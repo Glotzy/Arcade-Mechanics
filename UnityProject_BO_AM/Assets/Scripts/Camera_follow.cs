@@ -1,15 +1,13 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Camera_follow : MonoBehaviour
 {
-    public Transform target;
+    public Transform Player;
 
-    public float smoohSpeed = 0.125f;
-
-    void LateUpdate()
+    void FixedUpdate()
     {
-        transform.position = target.position;
+        transform.position = new Vector3(Player.position.x, Player.position.y, transform.position.z);
     }
+  
 }
